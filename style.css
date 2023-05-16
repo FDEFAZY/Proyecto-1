@@ -1,0 +1,23 @@
+/* selectores
+- * selector global
+- . selector de class
+- # selector de id 
+- p, h1, h2 en caso de referirnos a un objeto 
+*/
+
+html {
+    font-family: monospace;
+    background-color:bisque;
+
+}
+
+#titulo{
+    margin-left: 9em;
+}
+
+#explicacion {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10em;
+    margin-left: 30em;
+}
+
